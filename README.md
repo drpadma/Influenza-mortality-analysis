@@ -12,5 +12,7 @@ created a visual storyboard combining various data dashboards.
 The project brief, raw data, analysis, and other files are included in the
 aforementioned attachments.
 
-#TABLEAU LINK: 
-https://public.tableau.com/authoring/Task2_9Storytellingwithdatapresentations/ThePresentation#1 
+## The presentation
+ The flu mortality rate analysis is presented in [Tableau dashboard](https://public.tableau.com/authoring/Task2_9Storytellingwithdatapresentations/ThePresentation#1 )
+
+
