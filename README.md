@@ -1,4 +1,4 @@
-# Influenza Death Analysis
+# Influenza Mortality Analysis
 Here the analysis included a variety of data sets, including CDC influenza death
 data and US census data. The requirement instructed to conduct an analysis of both
 sets of data by integrating them together in order to determine the most effective
