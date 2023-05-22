@@ -16,7 +16,7 @@ aforementioned attachments.
 1. Microsoft excel
 2. Tableau
 
-## The presentation
+## Visualization
  The flu mortality rate analysis is presented in [Tableau dashboard](https://public.tableau.com/authoring/Task2_9Storytellingwithdatapresentations/ThePresentation#1 )
 
 
