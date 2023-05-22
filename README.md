@@ -10,7 +10,11 @@ accuracy, combined the data using lookups, and performed statistical analyses an
 hypothesis testing. Finally, I used Tableau to create a data presentation in which I
 created a visual storyboard combining various data dashboards.
 The project brief, raw data, analysis, and other files are included in the
-aforementioned attachments.
+aforementioned attachments. 
+
+## Tools Used
+1. Microsoft excel
+2. Tableau
 
 ## The presentation
  The flu mortality rate analysis is presented in [Tableau dashboard](https://public.tableau.com/authoring/Task2_9Storytellingwithdatapresentations/ThePresentation#1 )
