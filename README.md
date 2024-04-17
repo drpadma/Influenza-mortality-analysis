@@ -9,8 +9,7 @@ performed all the fundamental analyses, profiled the data integrity, verified it
 accuracy, combined the data using lookups, and performed statistical analyses and
 hypothesis testing. Finally, I used Tableau to create a data presentation in which I
 created a visual storyboard combining various data dashboards.
-The project brief, raw data, analysis, and other files are included in the
-aforementioned attachments. 
+The project brief, raw data, analysis, and other files are included in the aforementioned attachments. 
 
 ## Tools Used
 1. Microsoft excel
