@@ -16,6 +16,6 @@ The project brief, raw data, analysis, and other files are included in the afore
 2. Tableau
 
 ## Visualization
- The flu mortality rate analysis is presented in [Tableau dashboard](https://public.tableau.com/authoring/Task2_9Storytellingwithdatapresentations/ThePresentation#1 )
+ The flu mortality rate analysis is presented in [https://public.tableau.com/views/Task2_9Storytellingwithdatapresentations/ThePresentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
